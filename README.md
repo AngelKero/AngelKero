@@ -1,7 +1,3 @@
-Aquí te va un README chidori para que le pongas en tu cuenta de GitHub y refleje quién eres de manera épica:
-
----
-
 # 💻 Kero0ne | Full Stack Developer & Eternal Student  
 
 ¡Hola! Soy Kero0ne (también conocido como Ángel cuando se necesita formalidad 😎), un desarrollador web **full stack** especializado en el stack **MEAN** (MongoDB, Express, Angular y Node.js). Vivo en Guadalajara, México, y estoy en la búsqueda constante de mejorar mis habilidades, construir proyectos geniales y, eventualmente, dominar el mundo del código 💾✨.
