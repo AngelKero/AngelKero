@@ -1,13 +1,75 @@
 # 💻 Kero0ne | Full Stack Developer MEAN Stack  
 
+Hi there! I'm **Kero0ne**, a **full-stack web developer** with over 4 years of experience building robust applications, e-commerce solutions, and projects that shine brighter than a rare drop in gacha games. I specialize in the **MEAN stack** and live in Guadalajara, Mexico—land of tequila but with a tech-driven soul.
+
+---
+
+## 🎯 About Me  
+- 👨‍💻 **Professional Developer:** I’ve worked on creating and maintaining websites, e-commerce platforms, and web applications. My solutions are fast, functional, and stylish.  
+- 🎮 **Otaku and Gamer:** If I’m not coding, I’m probably caught in an epic anime or ranking up in a game 👾.  
+- 🔧 **Optimization Enthusiast:** My day isn’t complete unless my code is cleaner and more efficient (bugs permitting 😅).  
+
+---
+
+## 💡 Core Skills  
+- **Frontend:** Advanced Angular, HTML5, CSS3 (with SASS for those premium styles), JavaScript/TypeScript.  
+- **Backend:** Node.js, ExpressJS, RESTful APIs.  
+- **Databases:** MongoDB, MySQL.  
+- **CMS & e-commerce:** Shopify (Liquid), Kirby CMS.  
+- **Others:** Git, Linux, and basic AWS for a full-stack-friendly approach.  
+
+---
+
+## 🌱 Always Growing  
+- Exploring **AWS** and **Linux** to expand my devops-friendly stack.  
+- Mastering **SOLID principles** and design patterns for elegant, maintainable code.  
+- Preparing to take the next big step in my tech career.  
+
+---
+
+## 🎓 Education  
+- **Bachelor’s Degree in Information Technologies** | University of Guadalajara (CUCEA)  
+  *2024 - Currently studying*  
+- **Senior Technician in Software Development** | CETI  
+  *2016 - 2020*  
+
+---
+
+## 🌎 Languages  
+- **Spanish:** Native.  
+- **English:** Intermediate Professional Proficiency (B1).  
+
+---
+
+## 💬 Let’s Connect  
+- 🐦 **Twitter:** [@Kero0ne](#)  
+- 💼 **LinkedIn:** [Kero0ne](#)  
+- 🌐 **Portfolio:** [My Portfolio](https://bit.ly/3zoZv81)  
+- 📧 **Email:** zangelweb@gmail.com (feel free to send memes or anime suggestions).  
+
+---
+
+> "Technology never stops, and neither do I. There's always something new to learn, create, and optimize."  
+
+Thank you for visiting! If you have a cool project or just want to chat about anime, games, or code, shoot me a message. See you in the code 👾✨.  
+
+--- 
+
+
+## Version en español uwu
+
+--
+
+## 💻 Kero0ne | Full Stack Developer MEAN Stack  
+
 ¡Qué onda! Soy **Kero0ne**, un **desarrollador web full stack** con más de 4 años de experiencia construyendo aplicaciones robustas, soluciones e-commerce y proyectos que brillan más que un ultra raro en gacha. Me especializo en el stack **MEAN** y vivo en Guadalajara, México, tierra del tequila, pero con alma tech.
 
 ---
 
 ## 🎯 Sobre mí  
 - 👨‍💻 **Desarrollador profesional:** He trabajado creando y manteniendo sitios web, plataformas e-commerce y aplicaciones web. Mis soluciones son funcionales, rápidas y con estilo.  
+- 🔧 **Apasionado por optimizar:** Mis días no están completos si no dejo mi código más eficiente y limpio (aunque los bugs no siempre lo permiten 😅).
 - 🎮 **Otaku y gamer:** Si no estoy codeando, seguro estoy atrapado en un anime épico o subiendo mi rank en algún juego 👾.  
-- 🔧 **Apasionado por optimizar:** Mis días no están completos si no dejo mi código más eficiente y limpio (aunque los bugs no siempre lo permiten 😅).  
 
 ---
 
