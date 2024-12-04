@@ -1,4 +1,4 @@
-# 💻 Kero0ne | Full Stack Developer MEAN Stack  
+# 💻 Angel Zaragoza | Full Stack Developer MEAN Stack  
 
 Hi there! I'm **Kero0ne**, a **full-stack web developer** with over 4 years of experience building robust applications, e-commerce solutions, and projects that shine brighter than a rare drop in gacha games. I specialize in the **MEAN stack** and live in Guadalajara, Mexico—land of tequila but with a tech-driven soul.
 
@@ -60,7 +60,7 @@ Thank you for visiting! If you have a cool project or just want to chat about an
 
 --
 
-## 💻 Kero0ne | Full Stack Developer MEAN Stack  
+## 💻 Angel Zaragoza | Full Stack Developer MEAN Stack  
 
 ¡Qué onda! Soy **Kero0ne**, un **desarrollador web full stack** con más de 4 años de experiencia construyendo aplicaciones robustas, soluciones e-commerce y proyectos que brillan más que un ultra raro en gacha. Me especializo en el stack **MEAN** y vivo en Guadalajara, México, tierra del tequila, pero con alma tech.
 
