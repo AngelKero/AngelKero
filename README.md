@@ -27,6 +27,14 @@ Hi there! I'm **Kero0ne**, a **full-stack web developer** with over 4 years of e
 
 ---
 
+## 🚀 Professional Experience
+**Web Programmer | Golden Sub (2021 - Present)**
+- Development and maintenance of e-commerce platforms and web applications.
+- Implementation of best practices to optimize code and improve performance.
+- Team collaboration to transform client ideas into functional solutions.
+
+---
+
 ## 🎓 Education  
 - **Bachelor’s Degree in Information Technologies** | University of Guadalajara (CUCEA)  
   *2024 - Currently studying*  
@@ -86,6 +94,14 @@ Thank you for visiting! If you have a cool project or just want to chat about an
 - Profundizando en **AWS** y **Linux** para ampliar mi stack devops-friendly.  
 - Dominando principios como **SOLID** y patrones de diseño para mantener mi código elegante.  
 - Preparándome para dar el siguiente gran salto en mi carrera tech.  
+
+---
+
+## 🚀 Experiencia profesional
+**Web Programmer | Golden Sub (2021 - Presente)**
+- Desarrollo y mantenimiento de plataformas e-commerce y aplicaciones web.
+- Implementación de prácticas para optimizar código y mejorar el rendimiento.
+- Trabajo en equipo para convertir ideas de clientes en soluciones funcionales.
 
 ---
 
