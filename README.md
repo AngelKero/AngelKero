@@ -56,7 +56,7 @@ Thank you for visiting! If you have a cool project or just want to chat about an
 --- 
 
 
-## Version en español uwu
+## Versión en español.
 
 --
 
