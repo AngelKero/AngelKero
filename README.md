@@ -1,52 +1,54 @@
-# 💻 Kero0ne | Full Stack Developer & Eternal Student  
+# 💻 Kero0ne | Full Stack Developer MEAN Stack  
 
-¡Hola! Soy Kero0ne (también conocido como Ángel cuando se necesita formalidad 😎), un desarrollador web **full stack** especializado en el stack **MEAN** (MongoDB, Express, Angular y Node.js). Vivo en Guadalajara, México, y estoy en la búsqueda constante de mejorar mis habilidades, construir proyectos geniales y, eventualmente, dominar el mundo del código 💾✨.
+¡Qué onda! Soy **Kero0ne**, un **desarrollador web full stack** con más de 4 años de experiencia construyendo aplicaciones robustas, soluciones e-commerce y proyectos que brillan más que un ultra raro en gacha. Me especializo en el stack **MEAN** y vivo en Guadalajara, México, tierra del tequila, pero con alma tech.
 
 ---
 
 ## 🎯 Sobre mí  
-- 👨‍🎓 **Estudiante universitario:** Mientras navego por la uni, también aprendo de todo lo que el mundo del desarrollo tiene para ofrecer.  
-- 🎮 **Otaku y gamer:** Mis descansos se llenan de anime y videojuegos; las waifus y los frames perfectos no se farmearán solos 👾.  
-- 🧑‍💻 **Apasionado por la programación:** Amo escribir código que no solo funcione, sino que también cuente historias (aunque a veces esas historias sean bugs inesperados).  
-- 🌎 **Viviendo en México:** Guadalajara, la tierra del tequila, los mariachis y ahora, un dev que quiere dejar huella.  
+- 👨‍💻 **Desarrollador profesional:** He trabajado creando y manteniendo sitios web, plataformas e-commerce y aplicaciones web. Mis soluciones son funcionales, rápidas y con estilo.  
+- 🎮 **Otaku y gamer:** Si no estoy codeando, seguro estoy atrapado en un anime épico o subiendo mi rank en algún juego 👾.  
+- 🔧 **Apasionado por optimizar:** Mis días no están completos si no dejo mi código más eficiente y limpio (aunque los bugs no siempre lo permiten 😅).  
 
 ---
 
 ## 💡 Habilidades principales  
-- **Frontend:** Angular, HTML5, CSS3 (Flex, Grid y con estilos bien perrones 😎), JavaScript ES6+.  
-- **Backend:** Node.js, Express, APIs RESTful.  
-- **Base de datos:** MongoDB, Firebase.  
-- **Otros:** Git, GitHub, Bootstrap, y un poquito de DevOps cuando el stack lo pide.  
+- **Frontend:** Angular avanzado, HTML5, CSS3 (con SASS para que luzca chulo), JavaScript/TypeScript.  
+- **Backend:** Node.js, ExpressJS, APIs RESTful.  
+- **Bases de datos:** MongoDB, MySQL.  
+- **CMS & e-commerce:** Shopify (Liquid), Kirby CMS.  
+- **Otros:** Git, Linux, y básicos de AWS para que el stack no me deje abajo.  
 
 ---
 
-## 🚀 En progreso...  
-- Aprendiendo más sobre **Linux**, porque la terminal me llama 👨‍💻.  
-- **Patrones de diseño** y principios **SOLID**, para que mi código no solo funcione, sino que sea digno de aplausos 👏.  
-- Preparándome para brillar en entrevistas **Full Stack** y conseguir el trabajo de mis sueños.  
+## 🌱 En constante evolución  
+- Profundizando en **AWS** y **Linux** para ampliar mi stack devops-friendly.  
+- Dominando principios como **SOLID** y patrones de diseño para mantener mi código elegante.  
+- Preparándome para dar el siguiente gran salto en mi carrera tech.  
 
 ---
 
-## 🌟 Mis Proyectos  
-Aquí algunos proyectos chidos que he hecho o en los que estoy trabajando:  
-
-1. **🐔 Página de pollos asados:** Mezclando diseño serio y memérico para conquistar estómagos (y clicks).  
-2. **Manejador de agua inteligente:** Descripciones de productos y cálculos locos para un futuro más hidratado.  
-3. **Aplicaciones MEAN:** Proyectos prácticos y personales para mejorar mis skills y contribuir a la comunidad.  
+## 🎓 Educación  
+- **Licenciatura en Tecnologías de la Información** | Universidad de Guadalajara (CUCEA)  
+  *2024 - Actualmente estudiando*  
+- **Técnico Superior Universitario en Desarrollo de Software** | CETI  
+  *2016 - 2020*  
 
 ---
 
-## 💬 Cómo contactarme  
+## 🌎 Idiomas  
+- **Español:** Nativo.  
+- **Inglés:** Competencia profesional intermedia (B1).  
+
+---
+
+## 💬 ¿Hablamos?  
 - 🐦 **Twitter:** [@Kero0ne](#)  
 - 💼 **LinkedIn:** [Kero0ne](#)  
-- 📧 **Email:** kero0ne@example.com (o invítame una cheve y platicamos 😜).  
+- 🌐 **Portafolio:** [Mi Portafolio](https://bit.ly/3zoZv81)  
+- 📧 **Email:** zangelweb@gmail.com (también acepto memes y sugerencias de anime).  
 
 ---
 
-> "El código es como la vida: si no funciona, lo debuggeas hasta que lo haga." - Yo mismo, en un día con café y sin dormir.  
+> "La tecnología no se detiene, y yo tampoco. Siempre hay algo nuevo que aprender, crear y optimizar."  
 
-¡Gracias por visitar mi perfil! Si tienes un proyecto chido o simplemente quieres platicar, mándame un mensaje. Nos vemos en el código 👾✨.  
-
---- 
-
-Espero que te lata y si quieres cambiar algo, dime. :v
+¡Gracias por pasar! Si tienes un proyecto chido o simplemente quieres cotorrear sobre anime, juegos o código, mándame un mensaje. Nos vemos en el teclado 👾✨.  
