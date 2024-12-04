@@ -50,8 +50,7 @@ Hi there! I'm **Kero0ne**, a **full-stack web developer** with over 4 years of e
 ---
 
 ## 💬 Let’s Connect  
-- 🐦 **Twitter:** [@Kero0ne](#)  
-- 💼 **LinkedIn:** [Kero0ne](#)  
+- 💼 **LinkedIn:** [Kero0ne](https://www.linkedin.com/in/zangelweb/)  
 - 🌐 **Portfolio:** [My Portfolio](https://bit.ly/3zoZv81)  
 - 📧 **Email:** zangelweb@gmail.com (feel free to send memes or anime suggestions).  
 
@@ -120,8 +119,7 @@ Thank you for visiting! If you have a cool project or just want to chat about an
 ---
 
 ## 💬 ¿Hablamos?  
-- 🐦 **Twitter:** [@Kero0ne](#)  
-- 💼 **LinkedIn:** [Kero0ne](#)  
+- 💼 **LinkedIn:** [Kero0ne](https://www.linkedin.com/in/zangelweb/)  
 - 🌐 **Portafolio:** [Mi Portafolio](https://bit.ly/3zoZv81)  
 - 📧 **Email:** zangelweb@gmail.com (también acepto memes y sugerencias de anime).  
 
